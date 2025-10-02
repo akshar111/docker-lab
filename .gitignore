@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+npm-debug.log
+pnpm-lock.yaml
+yarn.lock
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info
+.venv/
+.env
+
+# General
+*.log
+dist/
+build/
+coverage/
